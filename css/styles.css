@@ -1,0 +1,105 @@
+/*estilizado de navbar*/
+.navbar {
+  background-color: #000;
+}
+
+.inicionavbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-decoration: none;
+  color: #fff;
+  font-size: larger;
+  margin-left: 550%;
+}
+
+.starsnavbar {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 2200%;
+}
+
+.input {
+  background-color: #000;
+  border-radius: 50px;
+}
+
+/*Estilizado de primer aside*/
+.col {
+  color: #fff;
+  font-weight: 600;
+  font-size: larger;
+  background-color: black;
+}
+
+.cola {
+  color: #fff;
+  font-weight: 600;
+  font-size: larger;
+  padding: 5% 5% 5% 5%;
+  background-color: black;
+}
+
+/*variables de boton*/
+.btn {
+  border-radius: 100px;
+  width: 100%;
+  margin-top: 10%;
+  color: #fff;
+  font-weight: 600;
+}
+
+.bi {
+  margin: auto 10px auto auto;
+}
+
+/*Comineza estilizado de mainbar*/
+.imgtwt {
+  height: auto;
+  width: 70%;
+  border-radius: 200px;
+  margin-left: 20%;
+}
+
+.user {
+  color: rgba(95, 95, 95, 0.308);
+}
+
+/*Estilizado de iconos de tweet*/
+.colb-1-1 {
+  color: rgba(95, 95, 95, 0.308);
+}
+
+.colB {
+  color: #fff;
+  border: 2px solid rgba(95, 95, 95, 0.308);
+  background-color: #000;
+  height: auto;
+}
+
+/*estilizado de aside*/
+/*Estilizado de img de art aside*/
+#imgartaside {
+  width: 70%;
+}
+
+.resumentitartaside {
+  color: rgba(95, 95, 95, 0.308);
+  font-size: small;
+  font-weight: 100;
+}
+
+.colC1 {
+  background-color: #000;
+  color: #fff;
+  font-weight: 600;
+}
+
+.colC {
+  background-color: rgba(95, 95, 95, 0.089);
+  border-radius: 20px;
+  margin: 20px;
+  padding: 10px;
+  width: 90%;
+}
+/*# sourceMappingURL=styles.css.map */
